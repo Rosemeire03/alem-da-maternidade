@@ -30,3 +30,12 @@ footer p{margin:3px 0}
 }
 .reflection-content{width:100%;display:flex;flex-direction:column;align-items:center;gap:12px}
 .category{margin:0!important;color:var(--terr)!important;font-size:.76rem!important;font-weight:700!important;letter-spacing:.14em;text-transform:uppercase}
+
+/* Logo original do projeto preservado integralmente */
+.logos img[src="logo-alem-da-maternidade.png"]{
+  width:42%;
+  max-width:250px;
+  height:100px;
+  object-fit:contain;
+  object-position:center;
+}
