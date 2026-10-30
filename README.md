@@ -1,14 +1,11 @@
-# Além da Maternidade — página completa com nuvem de palavras
+# Além da Maternidade — versão corrigida
 
-Inclui:
-- logo FSA;
-- identidade original completa do projeto;
-- 12 reflexões revisadas;
-- campo “Deixe uma palavra”;
-- nuvem de palavras;
-- nomes das quatro discentes;
-- professor coordenador.
+Correção desta versão:
+- removido o logo duplicado da Fundação Santo André;
+- mantida apenas uma identificação institucional;
+- mantida a identidade original do projeto;
+- mantidas as 12 reflexões;
+- mantido o campo “Deixe uma palavra” e a nuvem;
+- mantidos os nomes das quatro discentes e do professor coordenador.
 
-IMPORTANTE: nesta versão as palavras são armazenadas localmente no navegador de cada aparelho. Para que todos os visitantes compartilhem a mesma nuvem, é necessário conectar um banco de dados (por exemplo, Firebase) e configurar regras de segurança.
-
-Para publicar, substitua os arquivos do repositório pelos arquivos deste pacote e faça commit na branch main.
+Observação: a nuvem desta versão ainda salva as palavras localmente no navegador.
