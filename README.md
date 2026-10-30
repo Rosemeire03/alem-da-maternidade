@@ -1,13 +1,14 @@
-# Além da Maternidade — versão com logo original
+# Além da Maternidade — página completa com nuvem de palavras
 
-Versão completa com:
-- logo da Fundação Santo André;
-- logo ORIGINAL do projeto Além da Maternidade, preservado sem recortes;
-- nomes das quatro discentes;
-- professor coordenador Julio Cesar da Silva;
+Inclui:
+- logo FSA;
+- identidade original completa do projeto;
 - 12 reflexões revisadas;
-- categorias Para refletir, Para reconhecer, Para lembrar e Para seguir.
+- campo “Deixe uma palavra”;
+- nuvem de palavras;
+- nomes das quatro discentes;
+- professor coordenador.
 
-## Atualizar o GitHub Pages
-Substitua os arquivos atuais do repositório pelos arquivos deste pacote e faça o commit na branch `main`.
-O endereço público permanece o mesmo.
+IMPORTANTE: nesta versão as palavras são armazenadas localmente no navegador de cada aparelho. Para que todos os visitantes compartilhem a mesma nuvem, é necessário conectar um banco de dados (por exemplo, Firebase) e configurar regras de segurança.
+
+Para publicar, substitua os arquivos do repositório pelos arquivos deste pacote e faça commit na branch main.
